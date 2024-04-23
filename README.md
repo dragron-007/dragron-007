@@ -1,4 +1,4 @@
-<h1 align="center">Hi there, I'm Dragron-007 👋</h1>
+<h1 align="center">Hi there, I'm Devesh Kaushal 👋</h1>
 
 <p align="center">
   <img src="https://github.com/dragron-007/dragron-007/blob/main/header.png" alt="Header Image">
@@ -11,24 +11,16 @@
 ---
 
 ### 🔭 I’m currently working on
-- Developing scalable web applications using React and Node.js
+- Developing cross platform Mobile application with Flutter
 - Exploring machine learning algorithms for predictive analytics
 
 ### 🌱 I’m currently learning
-- Advanced Kubernetes for orchestration
-- Rust for system level programming
-
-### 👯 I’m looking to collaborate on
-- Open source projects related to web development and data science
-- Innovative hackathon projects that solve real-world problems
-
-### 🤔 I’m looking for help with
-- Advanced concepts in cloud infrastructure and security
-- Best practices in microservices architecture
+- Advanced Machine Learning in computer vision 
+- 
 
 ### 💬 Ask me about
-- Web development using JavaScript, React, and Node.js
-- Hackathon tips and project management
+- Cross platform mobile development using Flutter, Firebase and MongoDB
+
 
 ### 📫 How to reach me
 - Email: [dragron007@example.com](mailto:dragron007@example.com)
@@ -39,30 +31,19 @@
 - He/Him
 
 ### ⚡ Fun fact
-- I've participated in over 20 hackathons and won 5 of them!
+- I've participated in several hackathons and was finalist in a Hackthon conducted by HST IIT Mandi
 
 ---
 
 <h2 align="center">🛠 Tech Stack</h2>
 <p align="center">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React">
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js">
-  <img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white" alt="Rust">
-  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes">
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS">
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter">
+<img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase">
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
+<img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" alt="Java">
+<img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB">
+<img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" alt="Google Cloud">
+
 </p>
 
-<h2 align="center">🏆 Hackathon Achievements</h2>
-<p align="center">
-  Here's a highlight of some of my achievements in hackathons:
-  <ul>
-    <li>1st Place - XYZ Hackathon 2023, Project: AI-driven crop management system</li>
-    <li>Top 3 - ABC CodeFest 2022, Project: Real-time pollution monitoring app</li>
-    <li>Audience Favorite - Global Hack 2021, Project: Interactive educational platform for remote learning</li>
-  </ul>
-</p>
 
-<p align="center">
-  <img src="https://github.com/dragron-007/dragron-007/blob/main/hackathon.png" alt="Hackathon Image">
-</p>
