@@ -8,13 +8,7 @@
   Welcome to my GitHub profile! I'm a dedicated software developer and a Machine Learning enthusiast.
 </p>
 
-<p align="center">
-  <img src="https://profile-counter.glitch.me/dragron-007/count.svg" alt="Visitor Count">
-</p>
-<p align="center">
-  <strong>Profile Views</strong>
-</p>
-
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=sripriyaagarwal16&label=Profile%20views&color=0e75b6&style=flat" alt="sripriyaagarwal16" /> </p>
 ---
 
 ### 🔭 Current Projects
