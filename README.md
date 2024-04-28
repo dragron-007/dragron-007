@@ -8,7 +8,7 @@
   Welcome to my GitHub profile! I'm a dedicated software developer and a Machine Learning enthusiast.
 </p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sripriyaagarwal16&label=Profile%20views&color=0e75b6&style=flat" alt="sripriyaagarwal16" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=dragron-007&label=Profile%20views&color=0e75b6&style=flat" alt="sripriyaagarwal16" /> </p>
 ---
 
 ### 🔭 Current Projects
