@@ -9,7 +9,10 @@
 </p>
 
 <p align="center">
-  <img src="https://profile-counter.glitch.me/{username}/count.svg" alt="Visitor Count">
+  <img src="https://profile-counter.glitch.me/dragron-007/count.svg" alt="Visitor Count">
+</p>
+<p align="center">
+  <strong>Profile Views</strong>
 </p>
 
 ---
