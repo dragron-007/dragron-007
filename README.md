@@ -8,7 +8,10 @@
   Welcome to my GitHub profile! I'm a dedicated software developer and a Machine Learning enthusiast.
 </p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=dragron-007&label=Profile%20views&color=0e75b6&style=flat" alt="sripriyaagarwal16" /> </p>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=dragron-007&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views">
+</p>
+
 ---
 
 ### 🔭 Current Projects
@@ -32,7 +35,7 @@
 
 ### ⚡ Hackathons
 - Finalist at a Hackathon conducted by HST IIT Mandi.
-- My team ranked in the top 400 out of 1500 teams at HackWithIndia.
+- Top 400 out of 1500 teams at HackWithIndia.
 - Qualified for the 2nd round at a Hackathon organized by the Haryana Police Narcotics Control Bureau.
 - Advanced to the 2nd round at a Hackathon organized by IGDTUW.
 
