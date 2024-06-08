@@ -2,10 +2,6 @@
 <h3 align="center">A passionate software developer and Machine Learning enthusiast from India</h3>
 
 <p align="center">
-  <img src="https://github.com/dragron-007/dragron-007/blob/main/header.png" alt="Header Image">
-</p>
-
-<p align="center">
   Welcome to my GitHub profile! Let's build something amazing together.
 </p>
 
